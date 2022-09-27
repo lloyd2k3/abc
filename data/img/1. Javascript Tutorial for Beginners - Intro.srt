@@ -1,0 +1,91 @@
+1
+00:00:00,120 --> 00:00:07,280
+What is going on guys and welcome to javascript tutorial for beginners in this course we'll learn what
+
+2
+00:00:07,280 --> 00:00:16,240
+is javascript how to add javascript to our project how to write javascript and at the end we will build
+
+3
+00:00:16,260 --> 00:00:20,560
+few simple projects to see how javascript works.
+
+4
+00:00:20,710 --> 00:00:29,880
+Beyond syntax and theory as always if you have any questions you can find me and you me or on YouTube
+
+5
+00:00:29,880 --> 00:00:32,190
+channel coding adek.
+
+6
+00:00:32,460 --> 00:00:33,630
+First things first.
+
+7
+00:00:33,660 --> 00:00:36,040
+What is javascript.
+
+8
+00:00:36,150 --> 00:00:41,730
+Javascript is a programming language and not just some regular programming language.
+
+9
+00:00:41,730 --> 00:00:47,380
+In fact javascript is the de facto programming language of the web.
+
+10
+00:00:47,700 --> 00:00:53,630
+So if you would like to become a web developer you will have to learn javascript.
+
+11
+00:00:53,940 --> 00:00:56,430
+Although it is subjective.
+
+12
+00:00:56,640 --> 00:01:01,890
+Javascript is considered the most popular programming language in the world.
+
+13
+00:01:02,310 --> 00:01:11,670
+If the HD model is responsible for the structure of the web page and C Ss is responsible for styling
+
+14
+00:01:11,670 --> 00:01:17,710
+of the web page javascript is responsible for the functionality of the web page.
+
+15
+00:01:17,910 --> 00:01:23,620
+For example an event occurs only when the user presses the button.
+
+16
+00:01:23,760 --> 00:01:32,380
+Lets say some kind of annoying pop up window shows up not only javascript is the king of the web now
+
+17
+00:01:32,560 --> 00:01:32,970
+days.
+
+18
+00:01:32,970 --> 00:01:34,710
+Javascript is everywhere.
+
+19
+00:01:35,040 --> 00:01:37,300
+It works on the server side.
+
+20
+00:01:37,590 --> 00:01:38,560
+For example no.
+
+21
+00:01:38,620 --> 00:01:43,260
+I guess it works on games and tons of other places.
+
+22
+00:01:43,260 --> 00:01:48,570
+Another great bonus of javascript is the fact that it is easy to learn.
+
+23
+00:01:48,900 --> 00:01:52,980
+So let's not waste our time and lets start learning javascript.
